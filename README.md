@@ -27,3 +27,4 @@ A: Classification produces discrete values - strict categories. Regression gives
 ## Q: Missing or corrupted data in a dataset
 
 A:
+isnull() and dropna() to find columns and drop them
